@@ -1,2 +1,2 @@
 #display the name
-print("Nishant pandey")
+print("Nishant Pandey")
